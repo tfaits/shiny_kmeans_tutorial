@@ -7,3 +7,7 @@ In this repository I've broken down the k-means example
 shiny app into easy to understand steps, adding a
 few shiny elements at a time. You can follow along and
 build the app using the template.
+
+The tenth file includes a few additions to the example
+app, including themes, actionButtons and reactiveEvents,
+and plotly.
