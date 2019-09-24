@@ -1,3 +1,4 @@
+#install.packages("shinythemes")
 require(shinythemes)
 ui <- fluidPage(
   theme = shinythemes::shinytheme("darkly"),
